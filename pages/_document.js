@@ -9,7 +9,7 @@ class MyDocument extends Document {
     
           <noscript>
             <img height="1" width="1" style={{display: 'none'}}
-                 src={`https://www.facebook.com/tr?id=2143908482640282&ev=PageView&noscript=1`} 
+                 src={`https://www.facebook.com/tr?id=1143696953539041&ev=PageView&noscript=1`} 
             />
           </noscript>
         </Head>
